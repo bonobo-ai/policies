@@ -7,10 +7,13 @@ You can delete your Bonobo account directly from the app:
 ### Option 1: Delete Account In-App (Recommended)
 
 1. Open the Bonobo app
-2. Go to **Settings** or **Account** section
-3. Tap **"Delete Account"**
-4. Confirm deletion when prompted
-5. Your account and all associated data will be permanently deleted immediately
+2. Tap the **profile icon** in the top right corner
+3. On the profile screen, scroll to the bottom
+4. Tap **"Delete Account"** button
+5. **Confirm twice** - Two confirmation dialogs will appear one after another
+6. Your account and all associated data will be permanently deleted immediately
+
+**Note:** The Delete Account button is only visible if you have created an account (registered after making a purchase).
 
 ### Option 2: Email Request
 
