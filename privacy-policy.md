@@ -152,14 +152,11 @@ You have the right to:
 - **Access**: Request a copy of your data
 - **Correction**: Update or correct inaccurate data
 - **Deletion**: Request deletion of your account and data
-- **Export**: Receive your data in a portable format
-- **Opt-Out**: Disable analytics collection
 
 ### Additional Rights for EU/EEA Users (GDPR)
 
 - **Right to Restriction**: Limit how we process your data
 - **Right to Object**: Object to processing based on legitimate interests
-- **Right to Data Portability**: Receive your data in a machine-readable format
 - **Right to Withdraw Consent**: Withdraw consent for processing at any time
 - **Right to Lodge a Complaint**: File a complaint with your local data protection authority
 
