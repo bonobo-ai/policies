@@ -19,7 +19,7 @@ Location: European Union & United States
 - **What**: Your imported messaging conversations
 - **How**: You manually import chat exports into the app
 - **Storage**: Stored locally on your device only
-- **Processing**: Sent to Google's Gemini AI for analysis (not permanently stored)
+- **Processing**: Sent to our AI service provider for analysis (not permanently stored)
 - **Retention**: Only AI-generated insights are stored in our database; your raw conversations never leave your device permanently
 
 ### 2. Personal Information
@@ -29,7 +29,7 @@ Location: European Union & United States
 - **Name**: Not collected
 
 ### 3. Usage Data (Analytics)
-We collect anonymous usage data through PostHog analytics:
+We collect anonymous usage data through our analytics service:
 - App screens viewed
 - Features used
 - Button clicks and interactions
@@ -39,7 +39,7 @@ We collect anonymous usage data through PostHog analytics:
 
 ### 4. Payment Information
 - **What**: Purchase transactions and subscription status
-- **How**: Processed through RevenueCat, Apple App Store, and Google Play Store
+- **How**: Processed through our payment service provider and the respective app stores (Apple App Store or Google Play Store)
 - **What We Store**:
   - Purchase entitlements (what features you've unlocked)
   - Transaction IDs (for verification only)
@@ -93,33 +93,33 @@ For users in the EU/EEA, we process your data based on:
 
 ## Third-Party Services
 
-We use the following third-party services:
+We use the following categories of third-party services:
 
-### Google Gemini AI
+### AI Service Provider
 - **Purpose**: Generate relationship insights from your chat text
-- **Data Shared**: Chat text for temporary analysis
-- **Retention**: Not permanently stored by Google
-- **Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- **Data Shared**: Chat text for temporary analysis only
+- **Retention**: Not permanently stored by the provider
+- **Note**: Chat data is only processed, never stored permanently
 
-### Supabase (Database)
+### Database Service
 - **Purpose**: Store AI-generated insights, user accounts, and entitlements
 - **Data Shared**: Analysis results, user IDs, device IDs, purchase records
-- **Location**: EU and US data centers
-- **Privacy Policy**: [https://supabase.com/privacy](https://supabase.com/privacy)
+- **Location**: Secure data centers in the EU and US
+- **Security**: Enterprise-grade encryption and access controls
 
-### RevenueCat (Payment Processing)
+### Payment Service Provider
 - **Purpose**: Manage in-app purchases and subscriptions
 - **Data Shared**: Device ID, purchase information, subscription status
-- **Privacy Policy**: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+- **Note**: Credit card details are never shared with us
 
-### PostHog (Analytics)
+### Analytics Service
 - **Purpose**: Anonymous usage analytics to improve the app
-- **Data Shared**: App usage patterns, feature interactions (no PII)
-- **Privacy Policy**: [https://posthog.com/privacy](https://posthog.com/privacy)
+- **Data Shared**: App usage patterns, feature interactions (no personally identifiable information)
+- **Privacy**: All data is anonymized before collection
 
-### Apple App Store & Google Play Store
+### App Store Platforms (Apple & Google)
 - **Purpose**: Payment processing and subscription management
-- **Data Shared**: Purchase information as required by platform
+- **Data Shared**: Purchase information as required by the respective platform
 - **Privacy Policies**:
   - Apple: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
   - Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
